@@ -4,3 +4,8 @@ Skills: 💻 MVC /Asp.Net Core / C# / Html / Css / Js
 
 - 🌱 I’m currently learning c# .Net Core and js
 - 📫 How to reach me: apertek1@gmail.com 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alihan_prtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alihan_prtk" height="30" width="40" /></a>
+
+</p>
