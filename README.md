@@ -12,7 +12,11 @@ Skills: 💻 MVC /Asp.Net Core / C# / Html / Css / Js
 <a href="https://instagram.com/alihanprtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihanprtk" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=perteka&show_icons=true&locale=tr&layout=compact" alt="perteka" /></p>
+<p><img align=".clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}" src="https://github-readme-stats.vercel.app/api/top-langs?username=perteka&show_icons=true&locale=tr&layout=compact" alt="perteka" /></p>
 
 <b>My GitHub Stats</b>
 
