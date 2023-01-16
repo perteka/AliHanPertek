@@ -13,5 +13,3 @@ Skills: 💻 MVC /Asp.Net Core / C# / Html / Css / Js
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/ali-han-pertek-1a265b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AliHanPertek" height="30" width="40" /></a>
-
-I'm working on docker, azure, CI/CD processes on the way to being a devops engineer.
