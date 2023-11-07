@@ -2,7 +2,7 @@
 
 Skills: 💻 MVC /Asp.Net Core / C# / Html / Css / Js
 
-- 🌍 I'm based in Konya
+- 🌍 I'm based in İstanbul
 - 🌱 I'm currently learning c# .Net Core and js
 - 🔭 I'm currently working in every field, trying to improve myself
 - 🧠 I'm working on docker, azure, CI/CD processes on the way to being a devops engineer.
